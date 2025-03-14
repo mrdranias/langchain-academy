@@ -12,3 +12,4 @@ trustcall
 langgraph-cli[inmem]
 pandas
 requests
+ipython
