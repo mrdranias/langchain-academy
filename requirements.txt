@@ -5,8 +5,11 @@ langsmith
 langchain-community
 langchain-core
 langchain-openai
-notebook
+jupyterlab
 tavily-python
 wikipedia
 trustcall
 langgraph-cli[inmem]
+numpy
+pandas
+requests
