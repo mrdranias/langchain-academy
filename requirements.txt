@@ -13,3 +13,4 @@ langgraph-cli[inmem]
 pandas
 requests
 ipython
+langchain-anthropic
