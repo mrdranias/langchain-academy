@@ -14,3 +14,5 @@ pandas
 requests
 ipython
 langchain-anthropic
+pydantic
+
